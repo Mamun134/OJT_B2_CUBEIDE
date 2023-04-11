@@ -5,8 +5,8 @@
  * Application:Led toggling
  *
  * GPIO'S
- * STEP1:Enable the AHB1 by RCC register
- * STEP2:Enable the GPIOX_MODER - PORT
+ * STEP1:Enable the AHB1 by RCC register - port address
+ * STEP2:Enable the GPIOX_MODER - mode of operation
  * STEP3:Enable the GPIO_ODR for output -PIN selection
  * Author:
  */
